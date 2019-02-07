@@ -1,29 +1,28 @@
-NO,sourse,clause,expectation,cause,saving
-1,cdot,The accident history did not warrant these improvements in the design phase of this overlay project,predictable,owner,expense
-2,cdot,"Region Traffic Engineer has requested this modification, at the urging of the local City mayor and Fire Department",unpredictable,thirdParty,expense
-3,cdot,These problems were created by inadequate design of the drainage features,predictable,owner,expense
-4,cdot,"in order to remove the currently deteriorated asphalt-pavement approach to project, and replace it with a concrete pavement approach to project",predictable,contractor,expense
-5,cdot,I have made adjustments to the estimated costs where approariate,unpredictable,contractor,expense
-6,cdot,A field investigation by the Project Engineer revealed that a 0.5:1 cut slope could be constructed at significant cost savings while still meeting the Department's commitment to the locals,unpredictable,contractor,saving
-7,cdot,"Due to the large quantities of erosion bales and silt fence on this project, it is impractical and ineffieicnt to measure and calculate the fraction of cubic yards at various locations",unpredictable,contractor,saving
-8,cdot,"The contractor initially requested  $450,000 for delays and disruptions caused by right of way acquisition, utility relocation, design changes, and Prebbles mouse trapping",unpredictable,owner,saving
-9,cdot,This change order was written to correct a design error,predictable,owner,expense
-10,cdot,"Heavy rain on the night of September 27, 2013 caused a mudslide between Station 72+00 and Station 74+00 right",unpredictable,contractor,expense
-11,cdot,This change order authorizes the Contractor to install Fence Combination Wire instead of Barbed Wire,unpredictable,contractor,expense
-12,cdot,CDOT was unaware of this line until the City pointed out the loction at the Preconstruction Conference,predictable,owner,expense
-13,cdot,This change order is written to authorize a major revision to the Traffic Control Plan,unpredictable,thirdParty,expense
-14,cdot,This is within the specification requirements of subsection 105.03,predictable,contractor,expense
-15,cdot,"Due to a change in the amount of seeding on the project, the Contractor had an excess of 80 pounds of the mix",unpredictable,contractor,expense
-16,cdot,"The change will produce a saving s to the Department of $36,869.00",unpredictable,contractor,saving
-17,cdot,This muck was created by existing drainage problems and was due to no fault of the contractor,unpredictable,thirdParty,expense
-18,cdot,The existing end anchorage had to be reset at the end of the remaining guardrail run,predictable,contractor,expense
-19,cdot,The item was added to allow a change to the Portland Cement Concrete Pavement specification,unpredictable,thirdParty,expense
-20,caltran,,,,
-21,,,,,
-22,,,,,
-23,,,,,
-24,,,,,
-25,,,,,
-26,,,,,
-27,,,,,
-28,,,,,
+NO,sourse,clause,expectation,cause,saving,,,,
+1,cdot,The accident history did not warrant these improvements in the design phase of this overlay project,predictable,owner,expense,,,,
+2,cdot,"Region Traffic Engineer has requested this modification, at the urging of the local City mayor and Fire Department",unpredictable,thirdParty,expense,,,,
+3,cdot,These problems were created by inadequate design of the drainage features,predictable,owner,expense,,,,
+4,cdot,"in order to remove the currently deteriorated asphalt-pavement approach to project, and replace it with a concrete pavement approach to project",predictable,contractor,expense,,,,
+5,cdot,I have made adjustments to the estimated costs where approariate,unpredictable,contractor,expense,,,,
+6,cdot,A field investigation by the Project Engineer revealed that a 0.5:1 cut slope could be constructed at significant cost savings while still meeting the Department's commitment to the locals,unpredictable,contractor,saving,,,,
+7,cdot,"Due to the large quantities of erosion bales and silt fence on this project, it is impractical and ineffieicnt to measure and calculate the fraction of cubic yards at various locations",unpredictable,contractor,saving,,,,
+8,cdot,"The contractor initially requested  $450,000 for delays and disruptions caused by right of way acquisition, utility relocation, design changes, and Prebbles mouse trapping",unpredictable,owner,saving,,,,
+9,cdot,This change order was written to correct a design error,predictable,owner,expense,,,,
+10,cdot,"Heavy rain on the night of September 27, 2013 caused a mudslide between Station 72+00 and Station 74+00 right",unpredictable,contractor,expense,,,,
+11,cdot,This change order authorizes the Contractor to install Fence Combination Wire instead of Barbed Wire,unpredictable,contractor,expense,,,,
+12,cdot,CDOT was unaware of this line until the City pointed out the loction at the Preconstruction Conference,predictable,owner,expense,,,,
+13,cdot,This change order is written to authorize a major revision to the Traffic Control Plan,unpredictable,thirdParty,expense,,,,
+14,cdot,This is within the specification requirements of subsection 105.03,predictable,contractor,expense,,,,
+15,cdot,"Due to a change in the amount of seeding on the project, the Contractor had an excess of 80 pounds of the mix",unpredictable,contractor,expense,,,,
+16,cdot,"The change will produce a saving s to the Department of $36,869.00",unpredictable,contractor,saving,,,,
+17,cdot,This muck was created by existing drainage problems and was due to no fault of the contractor,unpredictable,thirdParty,expense,,,,
+18,cdot,The existing end anchorage had to be reset at the end of the remaining guardrail run,predictable,contractor,expense,,,,
+19,cdot,The item was added to allow a change to the Portland Cement Concrete Pavement specification,unpredictable,thirdParty,expense,,,,
+20,caltran,"Because of filing errors in the resident engineer's office, these bills were not paid within the time limits",unpredictable,owner,expense,A,S,Z,Z
+22,caltran,the removal of existing barrier rail and associated components will not be required for installation of the new ADA curb ramps.,predictable,owner,saving,C,K,X,X
+23,caltran,The contract's log of test borings and the Informational Handout provide no indication that rock at any depth would be present at this location,predictable,contractor,expense,A,C,Z,Z
+24,caltran,"During roadway excavation activities, the State inspector made an elevation check on the waterline",predictable,owner,expense,A,G,Z,Z
+25,caltran,the district right of way agents were unable to close negotiations with abutting property owner adjacent to station 782+32,unpredictable,owner,expense,C,G,A,C
+26,caltran,the California statewide crude oil price index has fluctuated more than 5 persent,unpredictable,thirdParty,saving,A,Q,Z,Z
+27,caltran,the delay in completion of the contract due to the work specified by change ordr No. 16,unpredictable,owner,expense,A,F,Z,Z
+28,caltran,"as requested by the contractor, payment adjustments to unit prices decreases of more than 25 percent",unpredictable,contractor,expense,A,A,Z,Z
